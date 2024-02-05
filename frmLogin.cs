@@ -52,7 +52,7 @@ namespace WinFormsApp1
                 }
                 else
                 {
-                    MessageBox.Show("Connection is not open", "Connection Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Connection is  not open", "Connection Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
                 }
             catch (Exception ex)
